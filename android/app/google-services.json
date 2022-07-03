@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "357286750704",
+    "project_id": "ennodanoteuh",
+    "storage_bucket": "ennodanoteuh.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357286750704:android:6b97ca07bf528e0c645535",
+        "android_client_info": {
+          "package_name": "in.exrockstar.ennodanoteuh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "357286750704-s9medg18dihnkrubveoghfi1si7mokp0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCerLTbzbf4EajQ5NksGldzf-h02bQQP3c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "357286750704-s9medg18dihnkrubveoghfi1si7mokp0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
